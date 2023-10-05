@@ -1,0 +1,398 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DACFB870-5F0D-4F01-9160-28231C1176D6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ODP1_Connected_Start</RootNamespace>
+    <AssemblyName>ODP1_Connected_Start</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxShockwaveFlashObjects, Version=1.0.0.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="Oracle.DataAccess, Version=2.112.1.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\app\Administrator\product\11.2.0\dbhome_1\ODP.NET\bin\2.x\Oracle.DataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="acc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="acc.Designer.cs">
+      <DependentUpon>acc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin.Designer.cs">
+      <DependentUpon>admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_acc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="admin_acc.Designer.cs">
+      <DependentUpon>admin_acc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_app.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="admin_app.Designer.cs">
+      <DependentUpon>admin_app.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_cleans.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="admin_cleans.Designer.cs">
+      <DependentUpon>admin_cleans.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_clothes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="admin_clothes.Designer.cs">
+      <DependentUpon>admin_clothes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_elec.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="admin_elec.Designer.cs">
+      <DependentUpon>admin_elec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_food.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="admin_food.Designer.cs">
+      <DependentUpon>admin_food.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_lib.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="admin_lib.Designer.cs">
+      <DependentUpon>admin_lib.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_sports.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="admin_sports.Designer.cs">
+      <DependentUpon>admin_sports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_suppliers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="admin_suppliers.Designer.cs">
+      <DependentUpon>admin_suppliers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_toys.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="admin_toys.Designer.cs">
+      <DependentUpon>admin_toys.cs</DependentUpon>
+    </Compile>
+    <Compile Include="app.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="app.Designer.cs">
+      <DependentUpon>app.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cleans.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="cleans.Designer.cs">
+      <DependentUpon>cleans.cs</DependentUpon>
+    </Compile>
+    <Compile Include="clothes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="clothes.Designer.cs">
+      <DependentUpon>clothes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CrystalReport1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="customer_re.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="customer_re.Designer.cs">
+      <DependentUpon>customer_re.cs</DependentUpon>
+    </Compile>
+    <Compile Include="elec.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="elec.Designer.cs">
+      <DependentUpon>elec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="food.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="food.Designer.cs">
+      <DependentUpon>food.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lib.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="lib.Designer.cs">
+      <DependentUpon>lib.cs</DependentUpon>
+    </Compile>
+    <Compile Include="register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="register.Designer.cs">
+      <DependentUpon>register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="signin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="signin.Designer.cs">
+      <DependentUpon>signin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main.Designer.cs">
+      <DependentUpon>main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="sport.Designer.cs">
+      <DependentUpon>sport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="sr.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>sr.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="sre.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="sre.Designer.cs">
+      <DependentUpon>sre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="toy.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="toy.Designer.cs">
+      <DependentUpon>toy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="user.Designer.cs">
+      <DependentUpon>user.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user_sign.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="user_sign.Designer.cs">
+      <DependentUpon>user_sign.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="acc.resx">
+      <DependentUpon>acc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin.resx">
+      <DependentUpon>admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_acc.resx">
+      <DependentUpon>admin_acc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_app.resx">
+      <DependentUpon>admin_app.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_cleans.resx">
+      <DependentUpon>admin_cleans.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_clothes.resx">
+      <DependentUpon>admin_clothes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_elec.resx">
+      <DependentUpon>admin_elec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_food.resx">
+      <DependentUpon>admin_food.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_lib.resx">
+      <DependentUpon>admin_lib.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_sports.resx">
+      <DependentUpon>admin_sports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_suppliers.resx">
+      <DependentUpon>admin_suppliers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_toys.resx">
+      <DependentUpon>admin_toys.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="app.resx">
+      <DependentUpon>app.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cleans.resx">
+      <DependentUpon>cleans.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="clothes.resx">
+      <DependentUpon>clothes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="customer_re.resx">
+      <DependentUpon>customer_re.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="elec.resx">
+      <DependentUpon>elec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="food.resx">
+      <DependentUpon>food.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lib.resx">
+      <DependentUpon>lib.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="register.resx">
+      <DependentUpon>register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="signin.resx">
+      <DependentUpon>signin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main.resx">
+      <DependentUpon>main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="sport.resx">
+      <DependentUpon>sport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sr.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>sr.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sre.resx">
+      <DependentUpon>sre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="toy.resx">
+      <DependentUpon>toy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user.resx">
+      <DependentUpon>user.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user_sign.resx">
+      <DependentUpon>user_sign.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\891012.png" />
+    <None Include="Resources\1827295.png" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,213 @@
+create table Administator (
+admin_password number(10) primary key,
+admin_name nvarchar2(40) unique,
+last_contract_date date 
+)
+create table supplier(
+supplier_id number(10) primary key,
+supplier_name nvarchar2(40)unique,
+goods_type nvarchar2(40),
+good_quantity number(5),
+sup_phone nvarchar2(17),
+sup_city nvarchar2(20),
+sup_street nvarchar2(20),
+last_contract_date date
+)
+create table sup_admin(
+admin_password number(10) references administator(admin_password),
+sup_id number(10) references supplier(supplier_id),
+primary key(admin_password,sup_id)
+)
+create table customer(
+cust_id number(10) primary key,
+cust_name nvarchar2(40) unique,
+cust_phone nvarchar2(11),
+gender nvarchar2(6),
+credit_card_id number(14)unique,
+cust_city nvarchar2(20),
+custt_zone nvarchar2(20),
+cust_block nvarchar2(20),
+cust_flat nvarchar2(20)
+)
+create table food (
+serial_number number(10) primary key,
+fo_name nvarchar2(20),
+fo_type nvarchar2(10),
+expire_date date,
+creation_date date,
+amount number(5),
+price number(7),
+admin_pass number(10) references Administator (admin_password)
+)
+create table food_grene(
+fo_serialnum  number(10) references food(serial_number) ,
+grene_val nvarchar2(20) ,
+primary key(fo_serialnum, grene_val)
+)
+create table user_food(
+cust_id number(10) references customer(cust_id) ,
+serial_num  number(10) references  food (serial_number), 
+primary key(cust_id,serial_num)
+)
+create table cloth(
+serial_number number(10) primary key,
+clo_name nvarchar2(20),
+clo_type nvarchar2(10),
+amount number(5),
+price number(7),
+admin_pass number(10) references Administator (admin_password)
+)
+
+create table user_cloth(
+cust_id number(10) references customer(cust_id) ,
+serial_num  number(10) references cloth(serial_number),
+primary key(cust_id,serial_num)
+)
+create table  clean(
+serial_number number(10) primary key,
+cle_name nvarchar2(20),
+cle_type nvarchar2(10),
+amount number(5),
+price number(7),
+admin_pass number(10) references Administator (admin_password)
+)
+create table user_clean(
+cust_id number(10) references customer(cust_id) ,
+serial_num  number(10) references clean(serial_number),
+primary key(cust_id,serial_num)
+)
+create table accessory(
+serial_number number(10) primary key,
+acc_name nvarchar2(20),
+acc_type nvarchar2(10),
+amount number(5),
+price number(7),
+admin_pass number(10) references Administator (admin_password)
+)
+create table user_acc(
+cust_id number(10) references customer(cust_id) ,
+serial_num  number(10) references accessory(serial_number),
+primary key(cust_id,serial_num)
+)
+create table applience(
+serial_number number(10) primary key,
+app_name nvarchar2(20),
+app_type nvarchar2(10),
+amount number(5),
+price number(7),
+admin_pass number(10) references Administator (admin_password)
+)
+create table user_app(
+cust_id number(10) references customer(cust_id) ,
+serial_num  number(10) references applience(serial_number),
+primary key(cust_id,serial_num)
+)
+create table electronic(
+serial_number number(10) primary key,
+ele_name nvarchar2(20),
+ele_type nvarchar2(10),
+amount number(5),
+price number(7),
+admin_pass number(10) references Administator (admin_password)
+)
+create table user_electronic(
+cust_id number(10) references customer(cust_id) ,
+serial_num  number(10) references electronic(serial_number),
+primary key(cust_id,serial_num)
+)
+create table libirarian(
+serial_number number(10) primary key,
+lib_name nvarchar2(20),
+lib_type nvarchar2(10),
+amount number(5),
+price number(7),
+admin_pass number(10) references Administator (admin_password)
+)
+create table lib_discrip(
+lib_serialnum  number(10) references libirarian(serial_number) ,
+descrip_val nvarchar2(20),
+primary key(lib_serialnum,descrip_val)
+
+)
+create table user_lib(
+cust_id number(10) references customer(cust_id) ,
+serial_num  number(10) references libirarian(serial_number),
+primary key (cust_id,serial_num)
+)
+create table sport(
+serial_number number(10) primary key,
+s_name nvarchar2(20),
+s_type nvarchar2(10),
+amount number(5),
+price number(7),
+admin_pass number(10) references Administator (admin_password)
+)
+create table user_sport(
+cust_id number(10) references customer(cust_id) ,
+serial_num  number(10) references sport(serial_number),
+primary key(cust_id,serial_num)
+)
+create table toy(
+serial_number number(10) primary key,
+t_name nvarchar2(20),
+t_type nvarchar2(10),
+amount number(5),
+price number(7),
+admin_pass number(10) references Administator (admin_password)
+)
+create table user_toy(
+cust_id number(10) references customer(cust_id) ,
+serial_num  number(10) references toy(serial_number),
+primary key(cust_id,serial_num)
+)
+
+
+
+
+
+insert into administator (admin_password, admin_name,last_contract_date)
+values(2018170219,'abdulrahman','27-APR-22');
+insert into administator (admin_password, admin_name,last_contract_date)
+values(2018170267,'amr','25-may-22');
+insert into administator (admin_password, admin_name)
+values(2018170163,'ziad');
+insert into administator (admin_password, admin_name)
+values(2018170387,'mostafa');
+insert into administator (admin_password, admin_name)
+values(2018170018,'ahmed');
+insert into administator (admin_password, admin_name)
+values(2018170417,'mohaned');
+
+commit;
+create or replace PROCEDURE get_all_ids
+(allids out sys_refcursor)
+as
+begin
+open allids for
+select supplier_id from supplier;
+
+
+
+end get_all_ids;
+
+create or replace PROCEDURE i
+(
+subid in NUMBER, subn in VARCHAR2, gtype in VARCHAR2,amm in NUMBER,phone in VARCHAR2,city in VARCHAR2,street in VARCHAR2,last_date in date
+)
+as 
+BEGIN
+insert into supplier 
+(supplier_id, supplier_name, goods_type, good_quantity, sup_phone, sup_city, sup_street, last_contract_date)
+values( subid, subn, gtype, amm, phone, city, street , last_date);
+end;
+
+
+create or replace
+procedure getfoodamount
+(sn in NUMBER ,amm out number)
+as
+begin
+
+select amount into amm from food where serial_number= sn ;
+
+end;

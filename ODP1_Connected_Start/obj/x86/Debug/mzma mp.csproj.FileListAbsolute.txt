@@ -1,0 +1,287 @@
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\ODP1_Connected_Start.exe
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\ODP1_Connected_Start.pdb
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.ActorsForm.resources
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.Properties.Resources.resources
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\mzma mp.csproj.GenerateResource.cache
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\mzma mp.csproj.CoreCompileInputs.cache
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.exe
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.pdb
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.administration_sign_in_page.resources
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin_acc.resources
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin_app.resources
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin_cleans.resources
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin_clothes.resources
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin_elec.resources
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin_food.resources
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin_lib.resources
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin_sports.resources
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin_suppliers.resources
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin_toys.resources
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\ODP1_Connected_Start.exe.config
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\AxShockwaveFlashObjects.dll
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.Shared.dll
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\ShockwaveFlashObjects.dll
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\stdole.dll
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\mzma mp.csproj.CopyComplete
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin.resources
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.customer_re.resources
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.register.resources
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.user_sign.resources
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.user.resources
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.food.resources
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.lib.resources
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.clothes.resources
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.acc.resources
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.app.resources
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.cleans.resources
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.elec.resources
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.sport.resources
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.toy.resources
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.sre.resources
+D:\3rd\sec term new\db\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\mzma mp.csproj.AssemblyReference.cache
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\ODP1_Connected_Start.exe.config
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\ODP1_Connected_Start.exe
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\ODP1_Connected_Start.pdb
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\stdole.dll
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\mzma mp.csproj.AssemblyReference.cache
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.acc.resources
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin.resources
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin_acc.resources
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin_app.resources
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin_cleans.resources
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin_clothes.resources
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin_elec.resources
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin_food.resources
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin_lib.resources
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin_sports.resources
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin_suppliers.resources
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin_toys.resources
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.app.resources
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.cleans.resources
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.clothes.resources
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.customer_re.resources
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.elec.resources
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.food.resources
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.lib.resources
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.register.resources
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.administration_sign_in_page.resources
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.ActorsForm.resources
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.Properties.Resources.resources
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.sport.resources
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.sre.resources
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.toy.resources
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.user.resources
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.user_sign.resources
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\mzma mp.csproj.GenerateResource.cache
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\mzma mp.csproj.CoreCompileInputs.cache
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\mzma mp.csproj.CopyComplete
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.exe
+C:\Users\AmrAyman\Downloads\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.pdb
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\DataBase Project Marketplace (final)\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.exe
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\DataBase Project Marketplace (final)\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.pdb
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\ODP1_Connected_Start.exe.config
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\ODP1_Connected_Start.exe
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\ODP1_Connected_Start.pdb
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\AxShockwaveFlashObjects.dll
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.Shared.dll
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\ShockwaveFlashObjects.dll
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\stdole.dll
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\mzma mp.csproj.AssemblyReference.cache
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.acc.resources
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin.resources
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin_acc.resources
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin_app.resources
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin_cleans.resources
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin_clothes.resources
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin_elec.resources
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin_food.resources
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin_lib.resources
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin_sports.resources
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin_suppliers.resources
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin_toys.resources
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.app.resources
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.cleans.resources
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.clothes.resources
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.customer_re.resources
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.elec.resources
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.food.resources
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.lib.resources
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.register.resources
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.administration_sign_in_page.resources
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.ActorsForm.resources
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.Properties.Resources.resources
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.sport.resources
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.sre.resources
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.toy.resources
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.user.resources
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.user_sign.resources
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\mzma mp.csproj.GenerateResource.cache
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\mzma mp.csproj.CoreCompileInputs.cache
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\mzma mp.csproj.CopyComplete
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.exe
+E:\Education\computer science learning\FCIS ASU\3rd grade 2021,2022\second term\Data Base\project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.pdb
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\ODP1_Connected_Start.exe.config
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\ODP1_Connected_Start.exe
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\ODP1_Connected_Start.pdb
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\Microsoft.ReportViewer.Design.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\ShockwaveFlashObjects.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\EnvDTE.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\stdole.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\mzma mp.csproj.AssemblyReference.cache
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.acc.resources
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin.resources
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin_acc.resources
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin_app.resources
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin_cleans.resources
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin_clothes.resources
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin_elec.resources
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin_food.resources
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin_lib.resources
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin_sports.resources
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin_suppliers.resources
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.admin_toys.resources
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.app.resources
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.cleans.resources
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.clothes.resources
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.customer_re.resources
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.elec.resources
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.food.resources
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.lib.resources
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.register.resources
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.administration_sign_in_page.resources
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.ActorsForm.resources
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.Properties.Resources.resources
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.sport.resources
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.sre.resources
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.toy.resources
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.user.resources
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.user_sign.resources
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\mzma mp.csproj.GenerateResource.cache
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\mzma mp.csproj.CoreCompileInputs.cache
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\mzma mp.csproj.CopyComplete
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.exe
+G:\Career\Education\Computer Science\Projects\Database Project\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.pdb
