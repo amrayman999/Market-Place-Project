@@ -45,11 +45,11 @@ The project is organized as follows:
 
 ### Database schema
 
-![this is the database schema]()
+![this is the database schema](https://github.com/amrayman999/Market-Place-Project/blob/main/images%26videos/database%20schema.png)
 
 ### Output Video
 
-![Watch the project walkthrough video here]() 
+![Watch the project walkthrough video here](https://github.com/amrayman999/Market-Place-Project/blob/main/images%26videos/output.mp4) 
 
 ---
 
