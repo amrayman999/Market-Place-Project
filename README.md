@@ -49,7 +49,9 @@ The project is organized as follows:
 
 ### Output Video
 
-![Watch the project walkthrough video here](https://github.com/amrayman999/Market-Place-Project/blob/main/images%26videos/output.gif)
+![](https://github.com/amrayman999/Market-Place-Project/blob/main/images%26videos/output.gif)
+
+
 
 ---
 
